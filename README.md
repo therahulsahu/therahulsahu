@@ -1,6 +1,8 @@
-- 👋 Hi, I’m @therahulsahu
-- 👀 I’m interested in Mobile Application Development and Web Development
-- 🌱 I’m currently learning React
+# Hey There! <img src="https://github.com/therahulsahu/therahulsahu/blob/main/gifs/hi.gif" width="40px" />
+
+- 👋 Hi, I’m **Rahul**
+- 👀 I’m interested in **Mobile Application Development** and **Web Development**
+- 🌱 I’m currently learning **React**
 - 💞️ I’m looking to collaborate on Web Application Projects
 - 📫 How to reach me : therahulsahu7@gmail.com
 
