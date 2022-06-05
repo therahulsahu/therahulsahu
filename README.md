@@ -1,4 +1,4 @@
-# Hey There! <img src="https://github.com/therahulsahu/therahulsahu/blob/main/gifs/hi.gif" width="40px" />
+# Hey There! <img src="https://github.com/therahulsahu/therahulsahu/blob/main/gifs/hi.gif" width="30px" />
 
 - 👋 Hi, I’m **Rahul**
 - 👀 I’m interested in **Mobile Application Development** and **Web Development**
